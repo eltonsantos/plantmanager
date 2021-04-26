@@ -36,9 +36,9 @@ export async function savePlant(plant: PlantProps): Promise<void> {
       nextTime.setDate(now.getDate() + interval)
     }
     // Remover o else para fazer os testes de notificação mais rapido
-    // else {
-    //   nextTime.setDate(nextTime.getDate() + 1)
-    // }
+    else {
+      nextTime.setDate(nextTime.getDate() + 1)
+    }
 
     const seconds = Math.abs(
       Math.ceil((now.getTime() - nextTime.getTime()) / 1000)

@@ -7,7 +7,7 @@
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-license">License</a>
+  <a href="#-próximos-passos">Próximos passos</a>
 </p>
 
 <br>
@@ -41,6 +41,9 @@ $ yarn install
 
 # Start the project
 $ expo start
+
+# Open another bash tab and start server
+$ yarn server
 ```
 
 ## 💻 Project
@@ -57,10 +60,12 @@ You can view the project layout through the links below:
 
 Remembering that you need to have a [Figma](http://figma.com/) account to access it.
 
-## 📝 License
+## 🐾 Próximos passos
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
-
+- [ ] Cadastrar as plantas pelo próprio app 😎
+- [ ] Poder alterar a foto do perfil 🥰
+- [ ] Colocar um Dark Mode pra ficar show! 🤩
+- [ ] E muito mais... ❤💪🏼
 
 ---
 
